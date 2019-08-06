@@ -21,3 +21,4 @@ build/jsforce-api-analytics.min.js
 *.map
 *.map
 build/jsforce-api-analytics.js
+*.map
