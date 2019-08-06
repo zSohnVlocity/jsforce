@@ -14,3 +14,10 @@ node_modules
 npm-debug.log
 
 .npmignore
+build/jsforce-api-analytics.js
+build/jsforce-api-analytics.js
+build/jsforce-api-analytics.js
+build/jsforce-api-analytics.min.js
+*.map
+*.map
+build/jsforce-api-analytics.js
