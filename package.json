@@ -9,11 +9,11 @@
     "force.com",
     "database.com"
   ],
-  "homepage": "http://github.com/jsforce/jsforce",
+  "homepage": "http://github.com/zSohnVlocity/jsforce",
   "version": "1.9.2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jsforce/jsforce.git"
+    "url": "git://github.com/zSohnVlocity/jsforce.git"
   },
   "license": "MIT",
   "licenses": [
